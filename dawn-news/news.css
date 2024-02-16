@@ -1,0 +1,289 @@
+.div5{
+  width: 1230px;
+  display: grid;
+  grid-template-columns: 365px 250px 270px 315px;
+  margin-left: 50px;
+  margin-right: 50px;
+  column-gap: 15px;
+  height: 400px;
+}
+.subdiv51 h1{
+  font-family: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 25px;
+  width: 365px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv51 h5{
+  font-family: Georgia, ui-serif, Cambria, "Times New Roman", Times, serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  width: 365px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+.subdiv51 p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 15px;
+  color: #9fa6b2;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+.subdiv51 img{
+  width: 365px;
+  height: 220px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv52{
+  display: grid;
+  grid-template-rows: 200px 200px 200px;
+  row-gap: 10px;
+}
+.heading img{
+  height: 140px;
+  width: 240px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.heading h3{
+  height: 60px;
+  width: 240px;
+  text-align: center;
+  font-family: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 16px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv53{
+  display: grid;
+  grid-template-rows: 90px 90px 90px 90px 90px 90px 90px;
+  row-gap: 5px;
+}
+.headlines{
+  display: flex;
+  border-bottom: 1px solid gray;
+
+
+}
+.headlines p{
+  font-family: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 12px;
+  line-height: 17px;
+  font-weight: 700;
+  width: 185px;
+  text-align: left;
+  margin-top: 6px;
+  margin-bottom: 0;
+  margin-right: 10px;
+  
+
+}
+.headlines img{
+  width: 70px;
+  height: 45px;
+  margin-top: 10px;
+  justify-content: right;
+  align-items: center;
+}
+.subdiv54 p{
+  font-family: NafeesNaksh, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #ac2825;
+  width: 270px;
+  text-align: left;
+  border-top: 1px solid gray;
+}
+.subdiv54 img{
+  height: 180px;
+  width: 300px;
+}
+.subdiv54 ul {
+  height: 120px;
+}
+.subdiv54 ul li h1{
+  font-family: Merriweather, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 23px;
+  line-height: 27px;
+  font-weight: 400;
+  color: #090909;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv54 ul li h2{
+  font-family: Merriweather, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #242424;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv54 ul li h3{
+  font-family: Merriweather, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #5a5a5a;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv54 ul li h4{
+  font-family: Merriweather, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #606060;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv54 ul li h5{
+  font-family: Merriweather, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 17px;
+  line-height: 21px;
+  font-weight: 400;
+  color: #6f6f6f;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.div6{
+  width: 1230px;
+  height: 1000px;
+  display: grid;
+  grid-template-columns: 365px 850px;
+  margin-left: 50px;
+  margin-right: 50px;
+  column-gap: 15px;
+  height: 580px;
+
+}
+.subdiv611{
+  width: 350px;
+  height: 100px;
+}
+.subdiv611 h4{
+  font-family: NafeesNaksh, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 11px;
+  line-height: 17px;
+  color: #6b7280;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv611 ul li p{
+  font-family: Merriweather, ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 10px;
+  line-height: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subdiv612{
+  display: grid;
+  grid-template-rows: 35px 90px;
+  row-gap: 5px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid gray;
+
+}
+.subsubdiv6{
+  display: grid;
+  grid-template-columns: 90px 270px;
+  column-gap: 5px;
+}
+.subdiv612 div h2{
+  width: 310px;
+  text-align: left;
+  font-family: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 5px;
+  
+}
+.subsubdiv6 div img{
+  height: 85px;
+  width: 90px;
+  justify-content: left;
+  align-items: center;
+}
+.subsubdiv6 div h5{
+  width: 275px;
+  font-family: Georgia, ui-serif, Cambria, "Times New Roman", Times, serif;
+  font-size: 13px;
+  line-height: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 400;
+  
+}
+.subsubdiv6 div p{
+  width: 160px;
+  font-family: Arial;
+  font-size: 10px;
+  line-height: 10px;
+  color: #9fa6b2;
+  
+}
+.subdiv62{
+  margin-top: 280px;
+  margin-left: 10px;
+  display: grid;
+  grid-template-columns: 400px 400px;
+
+  
+
+}
+.subdiv622{
+  border-bottom: 4px solid black;
+}
+.subdiv621{
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-right: 40px;
+  border-bottom: 4px solid black;
+}
+.subdiv621 h1{
+  height: 30px;
+  width: 350px;
+  text-align: center;
+  font-family: NafeesNaksh, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 20px;
+  line-height: 30px;
+  color: #9a1313;
+  font-weight: 700;
+}
+.subdiv621 h2{
+  height: 90px;
+  width: 330px;
+  text-align: center;
+  font-family: "Playfair Display", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 700;
+}
+.subdiv621 p{
+  height: 50px;
+  width: 330px;
+  text-align: center;
+  font-family: Georgia, ui-serif, Cambria, "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 12px;
+  line-height: 18px;
+  color: #000000;
+  font-weight: 400;
+}
+.subdiv622 img{
+  width: 400px;
+  height: 240px;
+}

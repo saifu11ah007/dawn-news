@@ -1,0 +1,29 @@
+tr, th, td{
+  border: 3px solid black;
+  border-collapse: collapse;
+  padding: 0;
+  margin: 0;
+}
+table {
+  height: 100px; /* Adjust the height as per your requirement */
+}
+
+table{
+  padding: 0;
+  margin: 0;
+  border-spacing: 0;
+  width: 100%;
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+.lab{
+  column-span: all;
+}
+
+th, td {
+  width: calc(100% / 9); /* Equal width for each column */
+  text-align: center;
+}
+table tr td img{
+  width: 100%;
+}
